@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_571446_hands_cov.student" name="x_571446_hands_cov.student">5f9898b7c37b421098273942b4013108</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-10 07:47:54</sys_created_on>
+        <sys_id>139898b7c37b421098273942b401310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5f9898b7c37b421098273942b4013108</sys_name>
+        <sys_package display_value="hands_cov" source="x_571446_hands_cov">0b9890b3c37b421098273942b4013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hands_cov">0b9890b3c37b421098273942b4013178</sys_scope>
+        <sys_update_name>sys_embedded_help_role_139898b7c37b421098273942b401310b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-10 07:47:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

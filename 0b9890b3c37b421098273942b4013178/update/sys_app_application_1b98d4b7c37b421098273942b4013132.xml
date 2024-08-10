@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>hands_cov</name>
+        <order/>
+        <roles>x_571446_hands_cov.student</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-10 07:47:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b98d4b7c37b421098273942b4013132</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hands_cov</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="hands_cov" source="x_571446_hands_cov">0b9890b3c37b421098273942b4013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hands_cov">0b9890b3c37b421098273942b4013178</sys_scope>
+        <sys_update_name>sys_app_application_1b98d4b7c37b421098273942b4013132</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-10 07:47:54</sys_updated_on>
+        <title>hands_cov</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
